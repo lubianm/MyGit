@@ -4,6 +4,6 @@
 
 var test = function() {
 
-  this.myTest = 1981;
+  this.myTest = 1982;
 
 }
